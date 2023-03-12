@@ -1,6 +1,14 @@
 .App {
   text-align: center;
 }
+.hello {
+  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 50px;
+}
 
 .App-logo {
   height: 40vmin;
